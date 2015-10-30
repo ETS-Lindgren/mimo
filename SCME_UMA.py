@@ -135,6 +135,6 @@ if __name__ == '__main__':
             h.write( str(k*0.025) + "\t" + str(each) + "\n")
 
     print("\n")
-    print("Modeling of UMA:")
-    print("cross pol: %f" % model.cross_pol)
+    print("Modeling of UMA\n")
+    print("Spatial Correlation is output for Vertical Polarization: \ndata_spatial_corr_UMA_V.txt")
     print("\n")
