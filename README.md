@@ -23,8 +23,8 @@ python SCME_UMA.py
 ```
 
 There is a simple animation to show how signals start to deviate from the center.  Simply run
-'''
+```
 cd mimo
 python animation.py
-'''
+```
 
